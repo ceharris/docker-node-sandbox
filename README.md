@@ -15,7 +15,7 @@ _curl_.
 ### Build
 
 ```
-docker build -t node-sandbox
+docker build -t node-sandbox .
 ```
 
 ### Run
